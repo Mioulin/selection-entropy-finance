@@ -85,7 +85,7 @@ jupyter notebook notebooks/demo_orderbook_entropy.ipynb
 ## Citation
 If using this work, please cite:
 
-> Erik D. Fagerholm1, Zalina Dezhina, Rosalyn J. Moran, Karl J. Friston, Federico Turkheimer and Robert Leech *Selection Entropy: The Information Hidden Within Neuronal Patterns*, Physical Review Research, 2023.
+> Erik D. Fagerholm, Zalina Dezhina, Rosalyn J. Moran, Karl J. Friston, Federico Turkheimer and Robert Leech *Selection Entropy: The Information Hidden Within Neuronal Patterns*, Physical Review Research, 2023.
 
 ---
 
